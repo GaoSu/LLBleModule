@@ -1,0 +1,6 @@
+framework module LLBleModule {
+  umbrella header "LLBleModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
